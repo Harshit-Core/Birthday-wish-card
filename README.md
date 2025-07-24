@@ -1,3 +1,5 @@
+### Dedicated To Someone Who Inspires Me Every Day -J ###
+
 Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
